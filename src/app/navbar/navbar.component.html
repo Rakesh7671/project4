@@ -1,0 +1,13 @@
+<p [class]="isheadingtag?'heading':'navbar'">navbar works!</p>
+<p [style] ="{color:mycolor}">Style binding</p>
+<p [style]=mystyle>object style binding></p>
+<hr>
+<h1>login form</h1>
+username<input type="text" (input)="username($event)"><br/><br>
+username: <input type="text" [(ngModel)]="myname">   
+<h1>{{name}}</h1>
+
+<h1>{{MyCount}}</h1>
+
+<button (click)="myIncrement()">Increse</button>
+<button (click)="myDecrement()">Decrese</button>

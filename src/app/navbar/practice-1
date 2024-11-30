@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<HTML>
+    <HEAD>
+        <title>secret wars</title>
+    </HEAD>
+    <body>
+        <h1>unofficial variants were entered in multiverse</h1>
+        <ul>
+            <li>doctor doom</li>
+            <li>red hulk</li>
+            <li>wanda</li>
+            <li>spiderman</li>
+            <li>variants</li>
+        </ul>
+        <ul type = "circle">
+            <li>mega ultron</li>
+            <li>homelander</li>
+            <li>kangs</li>
+            <li>eternals</li>
+            <li>ghostrider</li>
+        </ul>
+        <ol type="A" reversed start>
+            <li>ramcharan</li>
+            <li>alluarjun</li>
+            <li>prabhas</li>
+            <li>ntr</li>
+
+        </ol>
+        <dl>
+            <dt>ramcharan</dt>
+            <dd>he is no1 actor in present tollywood</dd>
+            <dd>and he is the saviour of chiranjeevis legacy</dd>
+            <dt>alluarjun</dt>
+            <dd>so called bhAAi</dd>
+            <dd>lots of talent with shit fans</dd>
+            <dt>prabhas</dt>
+            <dd>pan international star thats it....</dd>
+            <dt>ntr</dt>
+            <dd>acting with vesataility</dd>
+
+
+        </dl>
+    </body>
+
+</HTML>
